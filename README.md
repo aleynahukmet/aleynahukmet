@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aleynahukmet
 - 👀 I’m interested in learning new programming languages
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me aleynahukmet@icloud.com
+- 📫 How to reach me aleynaahukmet@gmail.com
 
 <!---
 aleynahukmet/aleynahukmet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
