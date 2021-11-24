@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleynahukmet
-- 👀 I’m interested in learning new programming languages
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me aleynaahukmet@gmail.com
 
