@@ -26,3 +26,6 @@
 
 <br />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aleynahukmet&color=blueviolet" alt="aleynahukmet" /> </p>
+
+<br />
