@@ -2,9 +2,6 @@
 
 <h2 align="center"> Electrics/Electronical Engineer, Machine Learning Enthusiast </h2> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aleynahukmet&color=blueviolet" alt="aleynahukmet" /> </p>
-
-<br />
 
 <center> 
 
