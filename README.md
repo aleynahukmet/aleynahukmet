@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Aleyna 👋  </h1>
 
-<h2 align="center"> Electrics/Electronical Engineer, Machine Learning Enthusiast </h2> 
+<h2 align="center"> Artificial Intelligence Engineer, NLP Enthusiast </h2> 
 
 
 <center> 
