@@ -4,10 +4,6 @@
 
 
 <center> 
-
-- 🔭 I’m currently working on **Computer Vision**  :)
-	
-- 🌱 I’m interested in **Machine Learning, Data Science, NLP  and Computer Vision!** 
 	
 - 💬 Ask me about anything!
 	
